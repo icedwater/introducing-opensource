@@ -54,7 +54,6 @@
 
 ## FOSSASIA
 ## hackerspace.sg
-## Linux User Group
-## Red Hat
+## Linux Meetup Group
 ## Software Freedom Day
 ## Document Freedom Day
