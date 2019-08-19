@@ -13,10 +13,18 @@
 ---
 # What is it?
 ## Software
-  - 4 software freedoms
-  - source code is open for people to examine
-  - open for modification
-  - reuse in own work
+  - use as you like for whatever purpose
+  - study and modify source code is open for people to examine
+  - share with others
+  - share modifications with others
+  - open source
+
+---
+# (Software)
+## [fvo](images/fvo.png)
+
+---
+# What is it?
 ## Licences
   - copyleft
   - permissive
