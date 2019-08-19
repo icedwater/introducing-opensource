@@ -1,5 +1,6 @@
 # Free/Open Source Software
 
+---
 # Overview
 
 ## What?
@@ -9,6 +10,7 @@
 ## How Not?
 ## Singapore
 
+---
 # What is it?
 ## Software
   - 4 software freedoms
@@ -23,6 +25,7 @@
   - users
   - fans
 
+---
 # Software
 ## Operating Systems
   - Linux
@@ -33,15 +36,24 @@
     - Mac OS X
     - desktop distributions
     - server distributions
+
+---
+# Software
 ## Office Software
   - OpenOffice
   - LibreOffice
   - GNU Office
+
+---
+# Software
 ## Custom Applications
   - mail system
   - games
   - design
   - developer tools
+
+---
+# Software
 ## Programming Languages
   - python
   - go
@@ -50,6 +62,7 @@
   - php
   - JavaScript
 
+---
 # Licences
 ## GPL
   - GNU General Public License
@@ -60,6 +73,7 @@
 ## OSI Licenses
   - varied licenses covered by OSI
 
+---
 # Community
 ## Developers
   - stackoverflow
@@ -73,6 +87,7 @@
   - android freaks
   - meetup groups
 
+---
 # Why use it?
 ## Quicker development
   - some ideas have been worked on by other people
@@ -84,6 +99,7 @@
 ## Community
   - can be easy to get support
 
+---
 # Why not open source?
 ## Community
   - can be tricky with interest levels
@@ -96,11 +112,13 @@
 ## Unaware
   - Windows and Mac dominance
 
+---
 # How to use?
 ## Explore Alternatives
 ## Contribute
 ## Share and Acknowledge
 
+---
 # Singapore
 ## FOSSASIA
 ## hackerspace.sg
