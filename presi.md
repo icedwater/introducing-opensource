@@ -29,12 +29,12 @@
 # Software
 ## Operating Systems
   - Linux
-    - desktop distributions
-    - server distributions 
+    - desktop distributions ![gentoo](images/gentoo-logo.png) ![ubuntu](images/ubuntu-logo.png)
+    - server distributions
     - Android
   - BSD Unix
     - Mac OS X
-    - desktop distributions
+    - desktop distributions ![freebsd](images/freebsd-logo.png)
     - server distributions
 
 ---
@@ -42,7 +42,6 @@
 ## Office Software
   - OpenOffice
   - LibreOffice
-  - GNU Office
 
 ---
 # Software
