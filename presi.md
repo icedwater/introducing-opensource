@@ -21,7 +21,7 @@
 
 ---
 # (Software)
-## [fvo](images/fvo.png)
+## ![fvo](images/fvo.png)
 
 ---
 # What is it?
