@@ -88,8 +88,7 @@
   - askubuntu
   - superuser
   - IRC
-## Fans
-  - android freaks
+  - xda developers
   - meetup groups
 
 ---
