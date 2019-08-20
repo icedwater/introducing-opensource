@@ -64,10 +64,8 @@
 ## Programming Languages
   - python
   - go
-  - C?
   - perl
   - php
-  - JavaScript
 
 ---
 # Licences
