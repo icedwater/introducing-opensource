@@ -60,6 +60,18 @@
   - developer tools
 
 ---
+# Software: VLC
+![vlc](images/vlc.jpg)
+
+---
+# Software: GIMP
+![gimp](images/gimp.png)
+
+---
+# Software: Audacity
+![audacity](images/audacity.png)
+
+---
 # Software
 ## Programming Languages
   - python
